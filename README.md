@@ -117,7 +117,7 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-[text](../OneDrive/Desktop/WEBDEV/timetable.html)
+![alt text](image.png)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
